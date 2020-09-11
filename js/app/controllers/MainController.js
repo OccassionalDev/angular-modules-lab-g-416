@@ -3,4 +3,5 @@ function MainController($scope) {
 }
 
 angular
-  .module()
+  .module("app")
+  .
